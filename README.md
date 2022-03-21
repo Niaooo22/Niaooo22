@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there
 
-<!--
-**Niaooo22/Niaooo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ziqi Liao<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
+- 😄 Pronouns: She/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👧🏻 Facts about me: Chinese | living in Chengdu/Shenzhen/New York
+ | Graduate Student of QMSS at Columbia University | Product Manager at IEG, Tencent
+
+- 📖 Skills: R | Python | SQL | VBA 
+
+- 💬 Ask me about ： Place to Eat in NYC｜ iPhone Photography｜ MakeUp ｜ Travel
+
+- 📫 How to reach me: zl2988@columbia.edu | ziqi.liaooo @instagram 
